@@ -1,0 +1,11 @@
+[
+    {
+        "keys": ["ctrl+,"], "command": "sublimelint_next_error", "args": {"direction": -1}
+    },
+    {
+        "keys": ["ctrl+."], "command": "sublimelint_next_error"
+    },
+    {
+        "keys": ["ctrl+'"], "command": "sublimelint_all_errors"
+    }
+]
